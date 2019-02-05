@@ -1,2 +1,2 @@
-# ECE-573
+# ECE573
 ## Rutgers DATA STRUCT &amp; ALGS ECE 573
